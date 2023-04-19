@@ -1,7 +1,7 @@
-@font-face {
+/* @font-face {
   font-family: "ChivoMono";
   src: url(../public/ChivoMono-VariableFont_wght.ttf) 
-}
+} */
 
 /* this prevents the white at the bottom and top of the webpage */
 body { 
@@ -16,12 +16,12 @@ body {
 .App {
   background-color: #98B5BF;
   text-align: center;
-  font-family: 'ChivoMono';
+  font-family: 'SF Pixelate', sans-serif;
   font-variation-settings: "wght" 500;
 }
 
 .App-logo {
-  height: 50px;
+  height: 200px;
   pointer-events: none;
 }
 

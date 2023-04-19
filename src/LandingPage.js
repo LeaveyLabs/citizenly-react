@@ -1,6 +1,6 @@
 import appstorebutton from './download-on-appstore-borderless.png';
 import qrcode from './qrcode-round.png';
-import logo from './cup.and.saucer.png';
+import logo from './pictochat-appicon.png';
 import './App.css';
 import { Link } from "react-router-dom";
 
@@ -12,13 +12,11 @@ function LandingPage() {
         <h4></h4>
 
         <img src={logo} alt="logo" className='App-logo'/>
+        <h2></h2>
         <h2>
           PIXELCHAT
         </h2>
         <h2/>
-        <h6>
-          Send scribbles with friends 
-        </h6>
 
         <h4></h4>
         <div className='linkcontainer'>
