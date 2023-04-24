@@ -5,7 +5,7 @@
 
 /* this prevents the white at the bottom and top of the webpage */
 body { 
-  background-color: #98B5BF; 
+  background-color: #344478; 
 }
 
 /* html, body, body > div, .app {
@@ -14,14 +14,14 @@ body {
 } */
 
 .App {
-  background-color: #98B5BF;
+  background-color: #344478;
   text-align: center;
   font-family: 'SF Pixelate', sans-serif;
   font-variation-settings: "wght" 500;
 }
 
 .App-logo {
-  height: 200px;
+  height: 300px;
   pointer-events: none;
 }
 
@@ -70,7 +70,7 @@ body {
 }
 
 .App-footer {
-  background-color: #98B5BF;
+  background-color: #344478;
   min-height: 10vh;
   display: flex;
   flex-direction: column;
@@ -146,7 +146,7 @@ h5 {
 
 p {
   font-size: 20px;
-  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-family:'SF Pro', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-weight: 400;
   color: white;
   opacity: 0.6;

@@ -2,15 +2,19 @@
 
 Introduction
 
-PIXELCHAT ("PIXELCHAT" or "the app") is a language practice app that helps users practice speaking any language using AI. This privacy policy ("Policy") describes how PIXELCHAT collects, uses, and shares information about you when you use the app.
+Citizenly ("Citizenly" or "the app") is a naturalization assistant tool that helps users through the immigration policy. This privacy policy ("Policy") describes how Citizenly collects, uses, and shares information about you when you use the app.
 
 Information We Collect
 
 Usage Data: We collect information about your use of the app, including the date and time of your interactions with the app, your device type, and your IP address.
 
+Document Data: We temporarily collect your document data so that you can get your questions answered by an AI assistant.
+
 How We Use Your Information
 
 To improve the app: We use usage data to understand how people use the app and to improve it.
+
+To answer your questions: We use the document data so that the AI assistant can give you informed feedback on your document.
 
 Sharing Your Information
 
@@ -32,4 +36,4 @@ If you have any questions about this Policy or our data practices, please contac
 
 Availability of the App
 
-PIXELCHAT is available on iOS for anyone to use.
+Citizenly is available on iOS for anyone to use.
