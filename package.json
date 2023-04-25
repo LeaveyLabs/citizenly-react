@@ -14,7 +14,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "deploy": "npm run build && firebase deploy",
+    "deploy": "npm run build && firebase deploy --project citizenly-a71f6",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
